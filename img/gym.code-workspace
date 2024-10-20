@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"name": "gym",
+			"path": "../../../gym"
+		},
+		{
+			"name": "css",
+			"path": "../css"
+		},
+		{
+			"name": "img",
+			"path": "."
+		},
+		{
+			"name": "js",
+			"path": "../js"
+		},
+		{
+			"name": "lib",
+			"path": "../lib"
+		},
+		{
+			"name": "scss",
+			"path": "../scss"
+		}
+	],
+	"settings": {}
+}
